@@ -3,6 +3,7 @@
 # Ignore git directory.
 /.git/
 
+# Ignore bundler config.
 /.bundle
 
 # Ignore all environment files (except templates).
